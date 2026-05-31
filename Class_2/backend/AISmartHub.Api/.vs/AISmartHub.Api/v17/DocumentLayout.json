@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\Assignment\\Class_2\\backend\\AISmartHub.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88DF9567-C7E4-4B79-90E9-F49868E8FACC}|AISmartHub.Api\\AISmartHub.Api.csproj|c:\\users\\robinson\\desktop\\aiengineering\\assignment\\class_2\\backend\\aismarthub.api\\aismarthub.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88DF9567-C7E4-4B79-90E9-F49868E8FACC}|AISmartHub.Api\\AISmartHub.Api.csproj|solutionrelative:aismarthub.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DF9567-C7E4-4B79-90E9-F49868E8FACC}|AISmartHub.Api\\AISmartHub.Api.csproj|c:\\users\\robinson\\desktop\\aiengineering\\assignment\\class_2\\backend\\aismarthub.api\\aismarthub.api\\controllers\\aihubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DF9567-C7E4-4B79-90E9-F49868E8FACC}|AISmartHub.Api\\AISmartHub.Api.csproj|solutionrelative:aismarthub.api\\controllers\\aihubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DF9567-C7E4-4B79-90E9-F49868E8FACC}|AISmartHub.Api\\AISmartHub.Api.csproj|c:\\users\\robinson\\desktop\\aiengineering\\assignment\\class_2\\backend\\aismarthub.api\\aismarthub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DF9567-C7E4-4B79-90E9-F49868E8FACC}|AISmartHub.Api\\AISmartHub.Api.csproj|solutionrelative:aismarthub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DF9567-C7E4-4B79-90E9-F49868E8FACC}|AISmartHub.Api\\AISmartHub.Api.csproj|c:\\users\\robinson\\desktop\\aiengineering\\assignment\\class_2\\backend\\aismarthub.api\\aismarthub.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88DF9567-C7E4-4B79-90E9-F49868E8FACC}|AISmartHub.Api\\AISmartHub.Api.csproj|solutionrelative:aismarthub.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DF9567-C7E4-4B79-90E9-F49868E8FACC}|AISmartHub.Api\\AISmartHub.Api.csproj|c:\\users\\robinson\\desktop\\aiengineering\\assignment\\class_2\\backend\\aismarthub.api\\aismarthub.api\\models\\aiinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DF9567-C7E4-4B79-90E9-F49868E8FACC}|AISmartHub.Api\\AISmartHub.Api.csproj|solutionrelative:aismarthub.api\\models\\aiinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DF9567-C7E4-4B79-90E9-F49868E8FACC}|AISmartHub.Api\\AISmartHub.Api.csproj|c:\\users\\robinson\\desktop\\aiengineering\\assignment\\class_2\\backend\\aismarthub.api\\aismarthub.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DF9567-C7E4-4B79-90E9-F49868E8FACC}|AISmartHub.Api\\AISmartHub.Api.csproj|solutionrelative:aismarthub.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\Assignment\\Class_2\\backend\\AISmartHub.Api\\AISmartHub.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AISmartHub.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\Assignment\\Class_2\\backend\\AISmartHub.Api\\AISmartHub.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AISmartHub.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-31T17:50:01.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\Assignment\\Class_2\\backend\\AISmartHub.Api\\AISmartHub.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AISmartHub.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\Assignment\\Class_2\\backend\\AISmartHub.Api\\AISmartHub.Api\\Program.cs",
+              "RelativeToolTip": "AISmartHub.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T16:24:46.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AiHubController.cs",
+              "DocumentMoniker": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\Assignment\\Class_2\\backend\\AISmartHub.Api\\AISmartHub.Api\\Controllers\\AiHubController.cs",
+              "RelativeDocumentMoniker": "AISmartHub.Api\\Controllers\\AiHubController.cs",
+              "ToolTip": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\Assignment\\Class_2\\backend\\AISmartHub.Api\\AISmartHub.Api\\Controllers\\AiHubController.cs",
+              "RelativeToolTip": "AISmartHub.Api\\Controllers\\AiHubController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAQwB8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:36:26.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\Assignment\\Class_2\\backend\\AISmartHub.Api\\AISmartHub.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "AISmartHub.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\Assignment\\Class_2\\backend\\AISmartHub.Api\\AISmartHub.Api\\appsettings.json",
+              "RelativeToolTip": "AISmartHub.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-31T15:34:53.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\Assignment\\Class_2\\backend\\AISmartHub.Api\\AISmartHub.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AISmartHub.Api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\Assignment\\Class_2\\backend\\AISmartHub.Api\\AISmartHub.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AISmartHub.Api\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:33:49.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AIInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\Assignment\\Class_2\\backend\\AISmartHub.Api\\AISmartHub.Api\\Models\\AIInteraction.cs",
+              "RelativeDocumentMoniker": "AISmartHub.Api\\Models\\AIInteraction.cs",
+              "ToolTip": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\Assignment\\Class_2\\backend\\AISmartHub.Api\\AISmartHub.Api\\Models\\AIInteraction.cs",
+              "RelativeToolTip": "AISmartHub.Api\\Models\\AIInteraction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:32:58.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

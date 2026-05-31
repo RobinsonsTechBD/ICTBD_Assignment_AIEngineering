@@ -1,0 +1,53 @@
+<div class="dashboard-container">
+  <header class="app-header">
+    <h1>AI Smart Hub</h1>
+    <p>ASP.NET Core API + Angular + MS SQL Cross-Platform Suite</p>
+  </header>
+
+  <main class="main-content">
+    <section class="console-card">
+      <h2>Interactive AI Console</h2>
+      
+      <div class="input-group">
+        <textarea [(ngModel)]="userText" placeholder="Type a message or click 'Listen' to talk..."></textarea>
+        
+        <div class="button-row">
+          <button (click)="toggleListening()" [ngClass]="{'btn-mic-active': isListening}" class="btn-secondary">
+            {{ isListening ? 'Listening...' : '🎙️ Listen to Voice' }}
+          </button>
+          <button (click)="sendTextToAI()" class="btn-primary">Send to Ollama AI</button>
+        </div>
+      </div>
+
+      <div class="output-group" *ngIf="aiResponse">
+        <h3>AI Response</h3>
+        <p class="response-text">{{ aiResponse }}</p>
+        <button (click)="speakOutput(aiResponse)" class="btn-speaker">🔊 Speak Out Loud</button>
+      </div>
+    </section>
+
+    <section class="history-card">
+      <h2>Interaction History Logs (Saved to MS SQL)</h2>
+      <div class="table-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th>Type</th>
+              <th>Input Data Log</th>
+              <th>Output Data Log</th>
+              <th>Logged At</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let log of historyLogs">
+              <td><span class="badge" [attr.data-type]="log.interactionType">{{ log.interactionType }}</span></td>
+              <td>{{ log.inputData }}</td>
+              <td>{{ log.outputData }}</td>
+              <td>{{ log.createdAt | date:'shortTime' }}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+</div>

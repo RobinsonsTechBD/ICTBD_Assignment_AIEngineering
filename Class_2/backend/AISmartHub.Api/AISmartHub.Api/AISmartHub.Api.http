@@ -1,0 +1,6 @@
+@AISmartHub.Api_HostAddress = http://localhost:5296
+
+GET {{AISmartHub.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

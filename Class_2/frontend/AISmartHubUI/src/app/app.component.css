@@ -1,0 +1,109 @@
+:root {
+  --bg: #f8fafc;
+  --panel: #ffffff;
+  --text: #0f172a;
+  --primary: #2563eb;
+  --secondary: #10b981;
+  --border: #e2e8f0;
+}
+
+body {
+  background-color: #f8fafc;
+  color: #0f172a;
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  margin: 0;
+}
+
+.dashboard-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.app-header {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.app-header h1 {
+  margin: 0;
+  color: #1e3a8a;
+  font-size: 1.5rem;
+}
+
+.main-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+
+@media (max-width: 900px) {
+  .main-content { grid-template-columns: 1fr; }
+}
+
+.console-card, .history-card {
+  background: white;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+}
+
+textarea {
+  width: 100%;
+  height: 120px;
+  padding: 10px;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  resize: none;
+  box-sizing: border-box;
+}
+
+.button-row {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.btn-primary { background: #2563eb; color: white; }
+.btn-secondary { background: #64748b; color: white; }
+.btn-mic-active { background: #ef4444 !important; animation: pulse 1.5s infinite; }
+
+.output-group {
+  margin-top: 20px;
+  background: #f1f5f9;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.btn-speaker { background: #10b981; color: white; margin-top: 10px; }
+
+/* Table Logs Styles */
+.table-wrapper { overflow-x: auto; max-height: 400px; }
+table { width: 100%; border-collapse: collapse; text-align: left; }
+th, td { padding: 12px; border-bottom: 1px solid #e2e8f0; font-size: 0.9rem; }
+th { background: #f8fafc; }
+
+.badge {
+  padding: 4px 8px;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: bold;
+}
+.badge[data-type="TextToText"] { background: #dbeafe; color: #1e40af; }
+.badge[data-type="SpeechToText"] { background: #d1fae5; color: #065f46; }
+.badge[data-type="TextToSpeech"] { background: #fef3c7; color: #92400e; }
+
+@keyframes pulse {
+  0% { opacity: 1; }
+  50% { opacity: 0.6; }
+  100% { opacity: 1; }
+}

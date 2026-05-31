@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ua7n6tOvgTyBoeVQVSZkLqlDAR1QPZ8xAx+Frejcf9g=",
+  "Source": "AISmartHub.Api",
+  "BasePath": "_content/AISmartHub.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
