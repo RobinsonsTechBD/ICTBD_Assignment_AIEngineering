@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\HW\\Class_2\\SupportAgentApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A5D278-076B-4485-8652-489F7D6C8F6F}|SupportAgentApp.csproj|c:\\users\\robinson\\desktop\\aiengineering\\hw\\class_2\\supportagentapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A5D278-076B-4485-8652-489F7D6C8F6F}|SupportAgentApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A5D278-076B-4485-8652-489F7D6C8F6F}|SupportAgentApp.csproj|c:\\users\\robinson\\desktop\\aiengineering\\hw\\class_2\\supportagentapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A5D278-076B-4485-8652-489F7D6C8F6F}|SupportAgentApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A5D278-076B-4485-8652-489F7D6C8F6F}|SupportAgentApp.csproj|c:\\users\\robinson\\desktop\\aiengineering\\hw\\class_2\\supportagentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A5D278-076B-4485-8652-489F7D6C8F6F}|SupportAgentApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A5D278-076B-4485-8652-489F7D6C8F6F}|SupportAgentApp.csproj|c:\\users\\robinson\\desktop\\aiengineering\\hw\\class_2\\supportagentapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A5D278-076B-4485-8652-489F7D6C8F6F}|SupportAgentApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A5D278-076B-4485-8652-489F7D6C8F6F}|SupportAgentApp.csproj|c:\\users\\robinson\\desktop\\aiengineering\\hw\\class_2\\supportagentapp\\supportagentapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4A5D278-076B-4485-8652-489F7D6C8F6F}|SupportAgentApp.csproj|solutionrelative:supportagentapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A5D278-076B-4485-8652-489F7D6C8F6F}|SupportAgentApp.csproj|c:\\users\\robinson\\desktop\\aiengineering\\hw\\class_2\\supportagentapp\\plugins\\orderplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A5D278-076B-4485-8652-489F7D6C8F6F}|SupportAgentApp.csproj|solutionrelative:plugins\\orderplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SupportAgentApp",
+              "DocumentMoniker": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\HW\\Class_2\\SupportAgentApp\\SupportAgentApp.csproj",
+              "RelativeDocumentMoniker": "SupportAgentApp.csproj",
+              "ToolTip": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\HW\\Class_2\\SupportAgentApp\\SupportAgentApp.csproj",
+              "RelativeToolTip": "SupportAgentApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-31T10:58:37.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\HW\\Class_2\\SupportAgentApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\HW\\Class_2\\SupportAgentApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-31T10:55:31.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\HW\\Class_2\\SupportAgentApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\HW\\Class_2\\SupportAgentApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-31T10:49:05.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\HW\\Class_2\\SupportAgentApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\HW\\Class_2\\SupportAgentApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T10:44:55.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\HW\\Class_2\\SupportAgentApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\HW\\Class_2\\SupportAgentApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T10:42:15.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderPlugin.cs",
+              "DocumentMoniker": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\HW\\Class_2\\SupportAgentApp\\Plugins\\OrderPlugin.cs",
+              "RelativeDocumentMoniker": "Plugins\\OrderPlugin.cs",
+              "ToolTip": "C:\\Users\\Robinson\\Desktop\\AIEngineering\\HW\\Class_2\\SupportAgentApp\\Plugins\\OrderPlugin.cs",
+              "RelativeToolTip": "Plugins\\OrderPlugin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T10:38:23.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
